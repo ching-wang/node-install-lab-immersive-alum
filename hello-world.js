@@ -2,4 +2,4 @@ function greeting() {
   return "Hello World";
 }
 
-module.exports = greeting;
+module.exports = greeting();
